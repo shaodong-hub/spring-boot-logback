@@ -1,0 +1,113 @@
+"2019-12-09 14:32:02.410 - INFO 96556 --- [restartedMain] c.g.s.SpringBootLogbackApplication      [lineno:50]: Starting SpringBootLogbackApplication on shao.local with PID 96556 (/Users/shao/Documents/IdeaProjects/spring-boot-logback/target/classes started by shao in /Users/shao/Documents/IdeaProjects/spring-boot-logback)
+""2019-12-09 14:32:02.417 - INFO 96556 --- [restartedMain] c.g.s.SpringBootLogbackApplication      [lineno:679]: The following profiles are active: type1
+""2019-12-09 14:32:02.549 - INFO 96556 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor[lineno:227]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+""2019-12-09 14:32:02.550 - INFO 96556 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor[lineno:227]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+""2019-12-09 14:32:05.086 - INFO 96556 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer [lineno:90]: Tomcat initialized with port(s): 8080 (http)
+""2019-12-09 14:32:05.122 - INFO 96556 --- [restartedMain] o.apache.catalina.core.StandardService  [lineno:173]: Starting service [Tomcat]
+""2019-12-09 14:32:05.122 - INFO 96556 --- [restartedMain] org.apache.catalina.core.StandardEngine [lineno:173]: Starting Servlet engine: [Apache Tomcat/9.0.19]
+""2019-12-09 14:32:05.231 - INFO 96556 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]      [lineno:173]: Initializing Spring embedded WebApplicationContext
+""2019-12-09 14:32:05.232 - INFO 96556 --- [restartedMain] o.s.web.context.ContextLoader           [lineno:296]: Root WebApplicationContext: initialization completed in 2678 ms
+""2019-12-09 14:32:05.536 - INFO 96556 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor [lineno:171]: Initializing ExecutorService 'applicationTaskExecutor'
+""2019-12-09 14:32:05.780 - INFO 96556 --- [restartedMain] o.s.s.c.ThreadPoolTaskScheduler         [lineno:171]: Initializing ExecutorService 'taskScheduler'
+""2019-12-09 14:32:05.812 - INFO 96556 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer      [lineno:57]: LiveReload server is running on port 35729
+""2019-12-09 14:32:05.839 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:05 CST 2019
+""2019-12-09 14:32:05.842 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:05 CST 2019
+""2019-12-09 14:32:05.842 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:05 CST 2019
+""2019-12-09 14:32:05.882 - INFO 96556 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer [lineno:204]: Tomcat started on port(s): 8080 (http) with context path ''
+""2019-12-09 14:32:05.887 - INFO 96556 --- [restartedMain] c.g.s.SpringBootLogbackApplication      [lineno:59]: Started SpringBootLogbackApplication in 4.187 seconds (JVM running for 6.093)
+""2019-12-09 14:32:06.839 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:06 CST 2019
+""2019-12-09 14:32:06.840 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:06 CST 2019
+""2019-12-09 14:32:06.840 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:06 CST 2019
+""2019-12-09 14:32:07.844 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:07 CST 2019
+""2019-12-09 14:32:07.846 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:07 CST 2019
+""2019-12-09 14:32:07.849 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:07 CST 2019
+""2019-12-09 14:32:08.839 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:08 CST 2019
+""2019-12-09 14:32:08.840 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:08 CST 2019
+""2019-12-09 14:32:08.840 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:08 CST 2019
+""2019-12-09 14:32:09.840 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:09 CST 2019
+""2019-12-09 14:32:09.841 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:09 CST 2019
+""2019-12-09 14:32:09.842 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:09 CST 2019
+""2019-12-09 14:32:10.842 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:10 CST 2019
+""2019-12-09 14:32:10.843 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:10 CST 2019
+""2019-12-09 14:32:10.843 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:10 CST 2019
+""2019-12-09 14:32:11.844 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:11 CST 2019
+""2019-12-09 14:32:11.845 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:11 CST 2019
+""2019-12-09 14:32:11.845 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:11 CST 2019
+""2019-12-09 14:32:12.839 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:12 CST 2019
+""2019-12-09 14:32:12.840 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:12 CST 2019
+""2019-12-09 14:32:12.841 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:12 CST 2019
+""2019-12-09 14:32:13.842 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:13 CST 2019
+""2019-12-09 14:32:13.843 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:13 CST 2019
+""2019-12-09 14:32:13.843 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:13 CST 2019
+""2019-12-09 14:32:14.840 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:14 CST 2019
+""2019-12-09 14:32:14.842 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:14 CST 2019
+""2019-12-09 14:32:14.842 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:14 CST 2019
+""2019-12-09 14:32:15.843 - INFO 96556 --- [scheduling-1] INFO                                    [lineno:27]: schedue2---info:Mon Dec 09 14:32:15 CST 2019
+""2019-12-09 14:32:15.844 - WARN 96556 --- [scheduling-1] WARN                                    [lineno:26]: schedue2---warn:Mon Dec 09 14:32:15 CST 2019
+""2019-12-09 14:32:15.844 -ERROR 96556 --- [scheduling-1] ERROR                                   [lineno:26]: schedue2---error:Mon Dec 09 14:32:15 CST 2019
+""2019-12-09 14:32:16.450 - INFO 96556 --- [Thread-18] o.s.s.c.ThreadPoolTaskScheduler         [lineno:208]: Shutting down ExecutorService 'taskScheduler'
+""2019-12-09 14:32:16.459 - INFO 96556 --- [Thread-18] o.s.s.concurrent.ThreadPoolTaskExecutor [lineno:208]: Shutting down ExecutorService 'applicationTaskExecutor'
+"2019-12-09 14:34:13.375 - INFO 96661 --- [restartedMain] c.g.s.SpringBootLogbackApplication      [line:50]: Starting SpringBootLogbackApplication on shao.local with PID 96661 (/Users/shao/Documents/IdeaProjects/spring-boot-logback/target/classes started by shao in /Users/shao/Documents/IdeaProjects/spring-boot-logback)
+2019-12-09 14:34:13.381 - INFO 96661 --- [restartedMain] c.g.s.SpringBootLogbackApplication      [line:679]: The following profiles are active: type1
+2019-12-09 14:34:13.544 - INFO 96661 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor[line:227]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-12-09 14:34:13.551 - INFO 96661 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor[line:227]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-12-09 14:34:15.423 - INFO 96661 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer [line:90]: Tomcat initialized with port(s): 8080 (http)
+2019-12-09 14:34:15.455 - INFO 96661 --- [restartedMain] o.apache.catalina.core.StandardService  [line:173]: Starting service [Tomcat]
+2019-12-09 14:34:15.456 - INFO 96661 --- [restartedMain] org.apache.catalina.core.StandardEngine [line:173]: Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-12-09 14:34:15.569 - INFO 96661 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]      [line:173]: Initializing Spring embedded WebApplicationContext
+2019-12-09 14:34:15.569 - INFO 96661 --- [restartedMain] o.s.web.context.ContextLoader           [line:296]: Root WebApplicationContext: initialization completed in 2016 ms
+2019-12-09 14:34:15.920 - INFO 96661 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor [line:171]: Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-09 14:34:16.155 - INFO 96661 --- [restartedMain] o.s.s.c.ThreadPoolTaskScheduler         [line:171]: Initializing ExecutorService 'taskScheduler'
+2019-12-09 14:34:16.196 - INFO 96661 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer      [line:57]: LiveReload server is running on port 35729
+2019-12-09 14:34:16.226 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:16 CST 2019
+2019-12-09 14:34:16.229 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:16 CST 2019
+2019-12-09 14:34:16.229 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:16 CST 2019
+2019-12-09 14:34:16.290 - INFO 96661 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer [line:204]: Tomcat started on port(s): 8080 (http) with context path ''
+2019-12-09 14:34:16.294 - INFO 96661 --- [restartedMain] c.g.s.SpringBootLogbackApplication      [line:59]: Started SpringBootLogbackApplication in 4.063 seconds (JVM running for 5.915)
+2019-12-09 14:34:17.226 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:17 CST 2019
+2019-12-09 14:34:17.227 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:17 CST 2019
+2019-12-09 14:34:17.227 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:17 CST 2019
+2019-12-09 14:34:18.230 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:18 CST 2019
+2019-12-09 14:34:18.230 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:18 CST 2019
+2019-12-09 14:34:18.231 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:18 CST 2019
+2019-12-09 14:34:19.229 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:19 CST 2019
+2019-12-09 14:34:19.229 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:19 CST 2019
+2019-12-09 14:34:19.230 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:19 CST 2019
+2019-12-09 14:34:20.231 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:20 CST 2019
+2019-12-09 14:34:20.232 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:20 CST 2019
+2019-12-09 14:34:20.232 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:20 CST 2019
+2019-12-09 14:34:21.230 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:21 CST 2019
+2019-12-09 14:34:21.231 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:21 CST 2019
+2019-12-09 14:34:21.231 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:21 CST 2019
+2019-12-09 14:34:22.228 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:22 CST 2019
+2019-12-09 14:34:22.228 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:22 CST 2019
+2019-12-09 14:34:22.229 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:22 CST 2019
+2019-12-09 14:34:23.227 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:23 CST 2019
+2019-12-09 14:34:23.227 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:23 CST 2019
+2019-12-09 14:34:23.228 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:23 CST 2019
+2019-12-09 14:34:24.227 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:24 CST 2019
+2019-12-09 14:34:24.227 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:24 CST 2019
+2019-12-09 14:34:24.228 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:24 CST 2019
+2019-12-09 14:34:25.227 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:25 CST 2019
+2019-12-09 14:34:25.228 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:25 CST 2019
+2019-12-09 14:34:25.229 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:25 CST 2019
+2019-12-09 14:34:26.228 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:26 CST 2019
+2019-12-09 14:34:26.228 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:26 CST 2019
+2019-12-09 14:34:26.229 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:26 CST 2019
+2019-12-09 14:34:27.229 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:27 CST 2019
+2019-12-09 14:34:27.230 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:27 CST 2019
+2019-12-09 14:34:27.230 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:27 CST 2019
+2019-12-09 14:34:28.229 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:28 CST 2019
+2019-12-09 14:34:28.230 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:28 CST 2019
+2019-12-09 14:34:28.231 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:28 CST 2019
+2019-12-09 14:34:29.231 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:29 CST 2019
+2019-12-09 14:34:29.231 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:29 CST 2019
+2019-12-09 14:34:29.232 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:29 CST 2019
+2019-12-09 14:34:30.229 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:30 CST 2019
+2019-12-09 14:34:30.230 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:30 CST 2019
+2019-12-09 14:34:30.231 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:30 CST 2019
+2019-12-09 14:34:31.233 - INFO 96661 --- [scheduling-1] INFO                                    [line:27]: schedue2---info:Mon Dec 09 14:34:31 CST 2019
+2019-12-09 14:34:31.234 - WARN 96661 --- [scheduling-1] WARN                                    [line:26]: schedue2---warn:Mon Dec 09 14:34:31 CST 2019
+2019-12-09 14:34:31.235 -ERROR 96661 --- [scheduling-1] ERROR                                   [line:26]: schedue2---error:Mon Dec 09 14:34:31 CST 2019
+2019-12-09 14:34:32.048 - INFO 96661 --- [Thread-18] o.s.s.c.ThreadPoolTaskScheduler         [line:208]: Shutting down ExecutorService 'taskScheduler'
+2019-12-09 14:34:32.050 - INFO 96661 --- [Thread-18] o.s.s.concurrent.ThreadPoolTaskExecutor [line:208]: Shutting down ExecutorService 'applicationTaskExecutor'
